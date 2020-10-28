@@ -1,0 +1,6 @@
+{
+  "CrmApiUrl": "https://80.78.240.16:5101",
+  "TransactionStoreApiUrl": "https://80.78.240.16:44349",
+  "DBConnectionString": "Data Source=80.78.240.16;Initial Catalog=TransactionStoreDb;User ID=dev;Password=qwe!23;",
+  "TestDbConnectionString": "Data Source=80.78.240.16;Initial Catalog=TransactionStoreDb_Restore;User ID=dev;Password=qwe!23;"
+}

@@ -1,0 +1,6 @@
+{
+    "AuthorizedIPAddresses": [
+        "127.0.0.1", // IPv4 localhost
+        "192.168.1.1"
+    ]
+}
